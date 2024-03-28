@@ -205,7 +205,10 @@ if [ $HOZOO = 11 ] || [ $HOZOO = 11 ]
     clear
     echo -e $green" Installing..."
     sleep 1
-xdg-open
+    git clone https://github.com/Hozo999/kandura-viip
+cd kandura-viip
+chmod +x kandura-viip
+bash KANDURA-VIIP.sh
   clear
     echo -e $green"Done Installed..."
 fi
@@ -214,7 +217,7 @@ if [ $HOZOO = 12 ] || [ $HOZOO = 12 ]
     clear
     echo -e $green" Installing..."
     sleep 1
-xdg-open https://www.tiktok.com/@cyber_hozoo_nethunter999?_t=8l2tpxccwny&_r=1
+xdg-open http://wa.me/'+62 896-6195-6633'
   clear
     echo -e $green"Done Installed..."
 fi
@@ -223,7 +226,7 @@ if [ $HOZOO = 13 ] || [ $HOZOO = 13 ]
     clear
     echo -e $green" Installing..."
     sleep 1
-xdg-open https://www.tiktok.com/@cyber_hozoo_nethunter999?_t=8l2tpxccwny&_r=1
+xdg-open "https://youtube.com/@SYTEMUMBRELLADRAK999?si=g1zWVldzLaHZyfbD"
   clear
     echo -e $green"Done Installed..."
 fi
@@ -232,7 +235,7 @@ if [ $HOZOO = 14 ] || [ $HOZOO = 14 ]
     clear
     echo -e $green" Installing..."
     sleep 1
-xdg-open https://www.tiktok.com/@cyber_hozoo_nethunter999?_t=8l2tpxccwny&_r=1
+xdg-open "https://www.tiktok.com/@cyber_hozoo_nethunter999?_t=8l2tpxccwny&_r=1"
   clear
     echo -e $green"Done Installed..."
 fi
