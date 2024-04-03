@@ -60,7 +60,7 @@ echo -e $green"
 [23].SPAM WA VIIP         [28].HACK CCTV                [33].TOOLS 🔰 WORDGEN 🔰               [38].TOOLS LACAK BY JHONZ
 [24].JARVIS BY GALIRUS    [29].TERMUX BACKUP            [34].TOOLS 🔰FACEBOOK HACK🔰           [39].TOOLS OSINT VIIP
 [25].VIRUS TIKTOK BY HOZOO[30].🔰 Facebook Bruteforce 🔰[35].🔰 LORDPHISH 🔰                   [40].TOOLS OSINT GhostTrack
-
+[41]. Ubuntu mod.         [42].install desktop Ubuntu mod
 
 "
 read -p "                            SYSTEM UMBRELLA DRAK999-->" HOZOO;
@@ -756,6 +756,24 @@ git clone https://github.com/HunxByts/GhostTrack.git
 cd GhostTrack
 pip3 install -r requirements.txt
 python3 GhostTR.py
+  clear
+    echo -e $green"Done Installed..."
+fi
+if [ $HOZOO = 41 ] || [ $HOZOO = 41 ]
+    then
+    clear
+    echo -e $green" Installing..."
+    sleep 1
+
+  clear
+    echo -e $green"Done Installed..."
+fi
+if [ $HOZOO = 42 ] || [ $HOZOO = 42 ]
+    then
+    clear
+    echo -e $green" Installing..."
+    sleep 1
+
   clear
     echo -e $green"Done Installed..."
 fi
