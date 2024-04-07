@@ -8,7 +8,25 @@ cyan='\033[36;1m'
 red='\033[31;1m'
 white='\033[37;1m'
 yellow='\033[33;1m'
-
+echo " PASSWORD: Hozoo01"
+xdg-open "https://wa.me/+62 896-6195-6633?text=.Bang-hozoo-beli-sc-tools"
+clear
+	read -p "PASSWORD : " your
+    if [ "$your" = "$Hozoo01" ]; then
+	clear
+	echo "Login Succes  ! "
+	touch $verifi
+	sleep 3
+	clear
+	else
+	clear
+	echo "Login success 😁"
+	sleep 3
+	clear
+	exit
+     fi
+fi
+done
 
 
 
