@@ -10,4 +10,6 @@ cd kandura-viip
 
 chmod +x kandura-viip
 
+bash hozoo.sh
+
 bash KANDURA-VIIP.sh
